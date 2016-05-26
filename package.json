@@ -40,6 +40,7 @@
     "require-dir": "^0.3.0",
     "slack-node": "^0.1.3",
     "vinyl-source-stream": "^1.1.0",
+    "wallabify": "0.0.14",
     "watchify": "^3.4.0"
   },
   "dependencies": {
